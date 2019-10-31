@@ -1,3 +1,5 @@
-#Movie App 2019
+#Movie App 2019 React JS project
 
-React JS Fundamentals Course (2019 Update!)
+link = https://wondonghwi.github.io/movie_app_2019/
+
+capture.PNG
